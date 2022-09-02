@@ -1,3 +1,4 @@
+package basic
 // enum 또한 class 이기 때문에 생성자와 프러퍼티를 사용할 수 있다.
 enum class PaymentStatus(val label: String) : Payable {
     UNPAID("미지급") {

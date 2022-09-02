@@ -1,3 +1,4 @@
+package basic
 //기본적인 함수 선언 스타일
 fun sum(a: Int, b: Int) : Int {
     return a + b

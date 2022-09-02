@@ -1,3 +1,5 @@
+package basic
+
 import java.lang.Exception
 import java.lang.IllegalArgumentException
 

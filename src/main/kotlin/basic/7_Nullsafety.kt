@@ -1,3 +1,4 @@
+package basic
 fun main() {
     // null 로 초기화시 컴파일 오류 ㅂ라생
     //var a : String = null

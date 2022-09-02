@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c7378a-11f8-419e-b9df-6e5547ae38ea" name="Changes" comment="" />
+    <list default="true" id="90c7378a-11f8-419e-b9df-6e5547ae38ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/10_Extends.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/10_Extends.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/11_Interface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/11_Interface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/12_enum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/12_enum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/1_Valiable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/1_Valiable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/2_Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/2_Function.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/3_If.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/3_If.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/4_When.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/4_When.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/5_For.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/5_For.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/6_While.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/6_While.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/7_Nullsafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/7_Nullsafety.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/8_Exception.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/8_Exception.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/9_ClassProperty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/9_ClassProperty.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +57,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin._12_enumKt">
+  <component name="RunManager" selected="Kotlin._2_DataClassKt">
     <configuration name="_10_ExtendsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -74,20 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_8_ExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_1_CollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_8_ExceptionKt" />
+      <option name="MAIN_CLASS_NAME" value="advanced._1_CollectionKt" />
       <module name="study-kotlin.main" />
       <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9_ClassPropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_2_DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_9_ClassPropertyKt" />
+      <option name="MAIN_CLASS_NAME" value="advanced._2_DataClassKt" />
       <module name="study-kotlin.main" />
       <shortenClasspath name="NONE" />
       <method v="2">
@@ -115,16 +129,16 @@
       <item itemvalue="Kotlin._10_ExtendsKt" />
       <item itemvalue="Kotlin._11_InterfaceKt" />
       <item itemvalue="Kotlin._12_enumKt" />
-      <item itemvalue="Kotlin._8_ExceptionKt" />
-      <item itemvalue="Kotlin._9_ClassPropertyKt" />
+      <item itemvalue="Kotlin._1_CollectionKt" />
+      <item itemvalue="Kotlin._2_DataClassKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._2_DataClassKt" />
+        <item itemvalue="Kotlin._1_CollectionKt" />
         <item itemvalue="Kotlin._12_enumKt" />
         <item itemvalue="Kotlin._11_InterfaceKt" />
         <item itemvalue="Kotlin._10_ExtendsKt" />
-        <item itemvalue="Kotlin._9_ClassPropertyKt" />
-        <item itemvalue="Kotlin._8_ExceptionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662013083365</updated>
-      <workItem from="1662013085002" duration="18098000" />
+      <workItem from="1662013085002" duration="23239000" />
     </task>
     <servers />
   </component>

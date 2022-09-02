@@ -1,3 +1,5 @@
+package basic
+
 //컨스트럭터, 후행쉼표
 class Coffee (
     val name: String,

@@ -1,5 +1,4 @@
 package basic
-
 fun main() {
     // 자바 switch 코드를 코틀린의 when 식으로 변환한 코드
     val day = 2

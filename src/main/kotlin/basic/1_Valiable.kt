@@ -1,7 +1,9 @@
+package basic
+
 var x = 5 // 클래스를 만들지 않고도 변수를 선언할 수 있다. 이러한 위치를 탑레벨에 위치한다고 함. 클래스나 함수에 속하지 않는다.
 
 fun main() {
-    x+= 1
+    x += 1
     println(x)
     /**
      * val 은 valiable

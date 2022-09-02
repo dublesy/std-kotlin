@@ -1,3 +1,4 @@
+package basic
 fun main() {
     // if..else 사용
     val job = "Software Developer"
